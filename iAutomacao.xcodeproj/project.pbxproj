@@ -19,26 +19,61 @@
 		3D294A8616BDE68600224BED /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D294A8416BDE68600224BED /* MainStoryboard_iPhone.storyboard */; };
 		3D294A8916BDE68600224BED /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D294A8716BDE68600224BED /* MainStoryboard_iPad.storyboard */; };
 		3D294A8C16BDE68600224BED /* iAutomacaoResidencialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D294A8B16BDE68600224BED /* iAutomacaoResidencialViewController.m */; };
+		3D46B03116BDEC7300BCABFA /* arcondicionado.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D46B02E16BDEC7300BCABFA /* arcondicionado.png */; };
+		3D46B03216BDEC7300BCABFA /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D46B02F16BDEC7300BCABFA /* camera.png */; };
+		3D46B03316BDEC7300BCABFA /* lampada.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D46B03016BDEC7300BCABFA /* lampada.png */; };
+		3D9CEF5516BF177C0019E81C /* casa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF4F16BF177C0019E81C /* casa.jpg */; };
+		3D9CEF5616BF177C0019E81C /* casa57.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5016BF177C0019E81C /* casa57.png */; };
+		3D9CEF5716BF177C0019E81C /* casa72.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5116BF177C0019E81C /* casa72.png */; };
+		3D9CEF5816BF177C0019E81C /* casa114.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5216BF177C0019E81C /* casa114.png */; };
+		3D9CEF5916BF177C0019E81C /* casa144.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5316BF177C0019E81C /* casa144.png */; };
+		3D9CEF5A16BF177C0019E81C /* casa1000.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5416BF177C0019E81C /* casa1000.png */; };
+		3D9CEF5C16BF1B850019E81C /* tv.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D9CEF5B16BF1B850019E81C /* tv.jpg */; };
+		3DFF9C5516BDECCF00ABEC1F /* sala.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5416BDECCF00ABEC1F /* sala.png */; };
+		3DFF9C5B16BDEE5B00ABEC1F /* DOWN.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5616BDEE5B00ABEC1F /* DOWN.png */; };
+		3DFF9C5C16BDEE5B00ABEC1F /* LEFT.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5716BDEE5B00ABEC1F /* LEFT.png */; };
+		3DFF9C5D16BDEE5B00ABEC1F /* RIGHT.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5816BDEE5B00ABEC1F /* RIGHT.png */; };
+		3DFF9C5E16BDEE5B00ABEC1F /* STOP.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5916BDEE5B00ABEC1F /* STOP.png */; };
+		3DFF9C5F16BDEE5B00ABEC1F /* UP.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF9C5A16BDEE5B00ABEC1F /* UP.png */; };
+		3DFF9C6516BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DFF9C6416BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3D294A6916BDE68600224BED /* iAutomacaoResidencial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iAutomacaoResidencial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D294A6916BDE68600224BED /* iAutomacao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iAutomacao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D294A6C16BDE68600224BED /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3D294A6E16BDE68600224BED /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3D294A7016BDE68600224BED /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3D294A7416BDE68600224BED /* iAutomacaoResidencial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iAutomacaoResidencial-Info.plist"; sourceTree = "<group>"; };
-		3D294A7616BDE68600224BED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3D294A7416BDE68600224BED /* iAutomacao-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iAutomacao-Info.plist"; sourceTree = "<group>"; };
 		3D294A7816BDE68600224BED /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3D294A7A16BDE68600224BED /* iAutomacaoResidencial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iAutomacaoResidencial-Prefix.pch"; sourceTree = "<group>"; };
+		3D294A7A16BDE68600224BED /* iAutomacao-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iAutomacao-Prefix.pch"; sourceTree = "<group>"; };
 		3D294A7B16BDE68600224BED /* iAutomacaoResidencialAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iAutomacaoResidencialAppDelegate.h; sourceTree = "<group>"; };
 		3D294A7C16BDE68600224BED /* iAutomacaoResidencialAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iAutomacaoResidencialAppDelegate.m; sourceTree = "<group>"; };
 		3D294A7E16BDE68600224BED /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		3D294A8016BDE68600224BED /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		3D294A8216BDE68600224BED /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		3D294A8516BDE68600224BED /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
-		3D294A8816BDE68600224BED /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		3D294A8A16BDE68600224BED /* iAutomacaoResidencialViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iAutomacaoResidencialViewController.h; sourceTree = "<group>"; };
 		3D294A8B16BDE68600224BED /* iAutomacaoResidencialViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iAutomacaoResidencialViewController.m; sourceTree = "<group>"; };
+		3D294A9216BDE6D200224BED /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "pt-BR"; path = "pt-BR.lproj/MainStoryboard_iPhone.storyboard"; sourceTree = "<group>"; };
+		3D294A9316BDE6D200224BED /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "pt-BR"; path = "pt-BR.lproj/MainStoryboard_iPad.storyboard"; sourceTree = "<group>"; };
+		3D294A9416BDE6D200224BED /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		3D46B02E16BDEC7300BCABFA /* arcondicionado.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arcondicionado.png; sourceTree = "<group>"; };
+		3D46B02F16BDEC7300BCABFA /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		3D46B03016BDEC7300BCABFA /* lampada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lampada.png; sourceTree = "<group>"; };
+		3D9CEF4F16BF177C0019E81C /* casa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = casa.jpg; sourceTree = "<group>"; };
+		3D9CEF5016BF177C0019E81C /* casa57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = casa57.png; sourceTree = "<group>"; };
+		3D9CEF5116BF177C0019E81C /* casa72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = casa72.png; sourceTree = "<group>"; };
+		3D9CEF5216BF177C0019E81C /* casa114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = casa114.png; sourceTree = "<group>"; };
+		3D9CEF5316BF177C0019E81C /* casa144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = casa144.png; sourceTree = "<group>"; };
+		3D9CEF5416BF177C0019E81C /* casa1000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = casa1000.png; sourceTree = "<group>"; };
+		3D9CEF5B16BF1B850019E81C /* tv.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tv.jpg; sourceTree = "<group>"; };
+		3DFF9C5416BDECCF00ABEC1F /* sala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sala.png; sourceTree = "<group>"; };
+		3DFF9C5616BDEE5B00ABEC1F /* DOWN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DOWN.png; sourceTree = "<group>"; };
+		3DFF9C5716BDEE5B00ABEC1F /* LEFT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LEFT.png; sourceTree = "<group>"; };
+		3DFF9C5816BDEE5B00ABEC1F /* RIGHT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RIGHT.png; sourceTree = "<group>"; };
+		3DFF9C5916BDEE5B00ABEC1F /* STOP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = STOP.png; sourceTree = "<group>"; };
+		3DFF9C5A16BDEE5B00ABEC1F /* UP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UP.png; sourceTree = "<group>"; };
+		3DFF9C6316BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iAutomacaoResidencialWilliamViewController.h; sourceTree = "<group>"; };
+		3DFF9C6416BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iAutomacaoResidencialWilliamViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +93,12 @@
 		3D294A6016BDE68600224BED = {
 			isa = PBXGroup;
 			children = (
+				3D9CEF4F16BF177C0019E81C /* casa.jpg */,
+				3D9CEF5016BF177C0019E81C /* casa57.png */,
+				3D9CEF5116BF177C0019E81C /* casa72.png */,
+				3D9CEF5216BF177C0019E81C /* casa114.png */,
+				3D9CEF5316BF177C0019E81C /* casa144.png */,
+				3D9CEF5416BF177C0019E81C /* casa1000.png */,
 				3D294A7216BDE68600224BED /* iAutomacaoResidencial */,
 				3D294A6B16BDE68600224BED /* Frameworks */,
 				3D294A6A16BDE68600224BED /* Products */,
@@ -67,7 +108,7 @@
 		3D294A6A16BDE68600224BED /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D294A6916BDE68600224BED /* iAutomacaoResidencial.app */,
+				3D294A6916BDE68600224BED /* iAutomacao.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -91,6 +132,9 @@
 				3D294A8716BDE68600224BED /* MainStoryboard_iPad.storyboard */,
 				3D294A8A16BDE68600224BED /* iAutomacaoResidencialViewController.h */,
 				3D294A8B16BDE68600224BED /* iAutomacaoResidencialViewController.m */,
+				3DFF9C6316BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.h */,
+				3DFF9C6416BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.m */,
+				3D294A9516BDE7CC00224BED /* Imagens */,
 				3D294A7316BDE68600224BED /* Supporting Files */,
 			);
 			path = iAutomacaoResidencial;
@@ -99,10 +143,10 @@
 		3D294A7316BDE68600224BED /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3D294A7416BDE68600224BED /* iAutomacaoResidencial-Info.plist */,
+				3D294A7416BDE68600224BED /* iAutomacao-Info.plist */,
 				3D294A7516BDE68600224BED /* InfoPlist.strings */,
 				3D294A7816BDE68600224BED /* main.m */,
-				3D294A7A16BDE68600224BED /* iAutomacaoResidencial-Prefix.pch */,
+				3D294A7A16BDE68600224BED /* iAutomacao-Prefix.pch */,
 				3D294A7E16BDE68600224BED /* Default.png */,
 				3D294A8016BDE68600224BED /* Default@2x.png */,
 				3D294A8216BDE68600224BED /* Default-568h@2x.png */,
@@ -110,12 +154,29 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		3D294A9516BDE7CC00224BED /* Imagens */ = {
+			isa = PBXGroup;
+			children = (
+				3DFF9C5416BDECCF00ABEC1F /* sala.png */,
+				3D46B02E16BDEC7300BCABFA /* arcondicionado.png */,
+				3D46B02F16BDEC7300BCABFA /* camera.png */,
+				3D46B03016BDEC7300BCABFA /* lampada.png */,
+				3DFF9C5616BDEE5B00ABEC1F /* DOWN.png */,
+				3DFF9C5716BDEE5B00ABEC1F /* LEFT.png */,
+				3DFF9C5816BDEE5B00ABEC1F /* RIGHT.png */,
+				3DFF9C5916BDEE5B00ABEC1F /* STOP.png */,
+				3DFF9C5A16BDEE5B00ABEC1F /* UP.png */,
+				3D9CEF5B16BF1B850019E81C /* tv.jpg */,
+			);
+			path = Imagens;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D294A6816BDE68600224BED /* iAutomacaoResidencial */ = {
+		3D294A6816BDE68600224BED /* iAutomacao */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D294A8F16BDE68600224BED /* Build configuration list for PBXNativeTarget "iAutomacaoResidencial" */;
+			buildConfigurationList = 3D294A8F16BDE68600224BED /* Build configuration list for PBXNativeTarget "iAutomacao" */;
 			buildPhases = (
 				3D294A6516BDE68600224BED /* Sources */,
 				3D294A6616BDE68600224BED /* Frameworks */,
@@ -125,9 +186,9 @@
 			);
 			dependencies = (
 			);
-			name = iAutomacaoResidencial;
+			name = iAutomacao;
 			productName = iAutomacaoResidencial;
-			productReference = 3D294A6916BDE68600224BED /* iAutomacaoResidencial.app */;
+			productReference = 3D294A6916BDE68600224BED /* iAutomacao.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -139,20 +200,26 @@
 				CLASSPREFIX = iAutomacaoResidencial;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "William Shiniti Yamamoto";
+				TargetAttributes = {
+					3D294A6816BDE68600224BED = {
+						DevelopmentTeam = 78XJTY4ANS;
+					};
+				};
 			};
-			buildConfigurationList = 3D294A6416BDE68600224BED /* Build configuration list for PBXProject "iAutomacaoResidencial" */;
+			buildConfigurationList = 3D294A6416BDE68600224BED /* Build configuration list for PBXProject "iAutomacao" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				"pt-BR",
 			);
 			mainGroup = 3D294A6016BDE68600224BED;
 			productRefGroup = 3D294A6A16BDE68600224BED /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D294A6816BDE68600224BED /* iAutomacaoResidencial */,
+				3D294A6816BDE68600224BED /* iAutomacao */,
 			);
 		};
 /* End PBXProject section */
@@ -168,6 +235,22 @@
 				3D294A8316BDE68600224BED /* Default-568h@2x.png in Resources */,
 				3D294A8616BDE68600224BED /* MainStoryboard_iPhone.storyboard in Resources */,
 				3D294A8916BDE68600224BED /* MainStoryboard_iPad.storyboard in Resources */,
+				3D46B03116BDEC7300BCABFA /* arcondicionado.png in Resources */,
+				3D46B03216BDEC7300BCABFA /* camera.png in Resources */,
+				3D46B03316BDEC7300BCABFA /* lampada.png in Resources */,
+				3DFF9C5516BDECCF00ABEC1F /* sala.png in Resources */,
+				3DFF9C5B16BDEE5B00ABEC1F /* DOWN.png in Resources */,
+				3DFF9C5C16BDEE5B00ABEC1F /* LEFT.png in Resources */,
+				3DFF9C5D16BDEE5B00ABEC1F /* RIGHT.png in Resources */,
+				3DFF9C5E16BDEE5B00ABEC1F /* STOP.png in Resources */,
+				3DFF9C5F16BDEE5B00ABEC1F /* UP.png in Resources */,
+				3D9CEF5516BF177C0019E81C /* casa.jpg in Resources */,
+				3D9CEF5616BF177C0019E81C /* casa57.png in Resources */,
+				3D9CEF5716BF177C0019E81C /* casa72.png in Resources */,
+				3D9CEF5816BF177C0019E81C /* casa114.png in Resources */,
+				3D9CEF5916BF177C0019E81C /* casa144.png in Resources */,
+				3D9CEF5A16BF177C0019E81C /* casa1000.png in Resources */,
+				3D9CEF5C16BF1B850019E81C /* tv.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +264,7 @@
 				3D294A7916BDE68600224BED /* main.m in Sources */,
 				3D294A7D16BDE68600224BED /* iAutomacaoResidencialAppDelegate.m in Sources */,
 				3D294A8C16BDE68600224BED /* iAutomacaoResidencialViewController.m in Sources */,
+				3DFF9C6516BDF59700ABEC1F /* iAutomacaoResidencialWilliamViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -190,7 +274,7 @@
 		3D294A7516BDE68600224BED /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3D294A7616BDE68600224BED /* en */,
+				3D294A9416BDE6D200224BED /* pt-BR */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -198,7 +282,7 @@
 		3D294A8416BDE68600224BED /* MainStoryboard_iPhone.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3D294A8516BDE68600224BED /* en */,
+				3D294A9216BDE6D200224BED /* pt-BR */,
 			);
 			name = MainStoryboard_iPhone.storyboard;
 			sourceTree = "<group>";
@@ -206,7 +290,7 @@
 		3D294A8716BDE68600224BED /* MainStoryboard_iPad.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3D294A8816BDE68600224BED /* en */,
+				3D294A9316BDE6D200224BED /* pt-BR */,
 			);
 			name = MainStoryboard_iPad.storyboard;
 			sourceTree = "<group>";
@@ -239,7 +323,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -264,7 +348,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -275,10 +359,14 @@
 		3D294A9016BDE68600224BED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iAutomacaoResidencial/iAutomacaoResidencial-Prefix.pch";
-				INFOPLIST_FILE = "iAutomacaoResidencial/iAutomacaoResidencial-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iAutomacaoResidencial/iAutomacao-Prefix.pch";
+				INFOPLIST_FILE = "iAutomacaoResidencial/iAutomacao-Info.plist";
+				PRODUCT_NAME = iAutomacao;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -286,10 +374,14 @@
 		3D294A9116BDE68600224BED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iAutomacaoResidencial/iAutomacaoResidencial-Prefix.pch";
-				INFOPLIST_FILE = "iAutomacaoResidencial/iAutomacaoResidencial-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iAutomacaoResidencial/iAutomacao-Prefix.pch";
+				INFOPLIST_FILE = "iAutomacaoResidencial/iAutomacao-Info.plist";
+				PRODUCT_NAME = iAutomacao;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -297,7 +389,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D294A6416BDE68600224BED /* Build configuration list for PBXProject "iAutomacaoResidencial" */ = {
+		3D294A6416BDE68600224BED /* Build configuration list for PBXProject "iAutomacao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D294A8D16BDE68600224BED /* Debug */,
@@ -306,13 +398,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D294A8F16BDE68600224BED /* Build configuration list for PBXNativeTarget "iAutomacaoResidencial" */ = {
+		3D294A8F16BDE68600224BED /* Build configuration list for PBXNativeTarget "iAutomacao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D294A9016BDE68600224BED /* Debug */,
 				3D294A9116BDE68600224BED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

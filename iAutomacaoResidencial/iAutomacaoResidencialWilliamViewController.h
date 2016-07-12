@@ -1,5 +1,5 @@
 //
-//  iAutomacaoResidencialAppDelegate.h
+//  iAutomacaoResidencialWilliamViewController.h
 //  iAutomacaoResidencial
 //
 //  Created by William Yamamoto on 02/02/13.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface iAutomacaoResidencialAppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface iAutomacaoResidencialWilliamViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIWebView *myWebView;
 
 @end

@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface iAutomacaoResidencialViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIWebView *myWebView;
+@property (weak, nonatomic) IBOutlet UIWebView *myWebCamView;
 
 @end
